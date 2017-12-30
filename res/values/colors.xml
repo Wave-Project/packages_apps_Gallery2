@@ -91,4 +91,6 @@
 
     <color name="navigation_accent_disabled">#747474</color>
     <color name="navigation_accent_enabled">@color/white</color>
+
+    <color name="ic_launcher_background">#03a9f4</color>
 </resources>
